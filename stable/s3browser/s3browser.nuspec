@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>s3browser</id>
+    <version>4.4.5</version>
+    <title>S3 Browser Version 4.4.5 (Freeware)</title>
+    <authors>NetSDK Software, LLC</authors>
+    <owners>NetSDK Software, LLC</owners>
+    <projectUrl>http://s3browser.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>S3 Browser is a freeware Windows client for Amazon S3 and Amazon CloudFront. Amazon S3 provides a simple web services interface that can be used to store and retrieve any amount of data, at any time, from anywhere on the web. Amazon CloudFront is a content delivery network (CDN). It can be used to deliver your files using a global network of edge locations.</description>
+    <summary>S3 Browser Version 4.4.5 (Freeware)</summary>
+    <tags>s3 browser file aws amazon</tags>
+  </metadata>
+</package>
