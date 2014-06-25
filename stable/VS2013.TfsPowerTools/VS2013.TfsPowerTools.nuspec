@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>VS2013.TfsPowerTools</id>
+    <version>12.1.00402.0</version>
+    <title>TFS Power Tools for Visual Studio 2013</title>
+    <authors>TFS Power Tools Team</authors>
+    <owners>TFS Power Tools Team</owners>
+    <projectUrl>http://visualstudiogallery.msdn.microsoft.com/f017b10c-02b4-4d6d-9845-58a06545627f</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The TFS Power tools consists of a few tools that can only be run on the server (such as the Best Practices Analyzer), but the majority are exposed through the Visual Studio IDE.
+To run the server power tools you need to install the power tools on the TFS Application Tier, and the server of the Power Tools need to match the version of your TFS server.</description>
+    <summary>The TFS Power tools consists of a few tools that can only be run on the server (such as the Best Practices Analyzer), but the majority are exposed through the Visual Studio IDE.
+To run the server power tools you need to install the power tools on the TFS Application Tier, and the server of the Power Tools need to match the version of your TFS server.</summary>
+    <tags>vs2013 TFS power tools powertools</tags>
+  </metadata>
+</package>
