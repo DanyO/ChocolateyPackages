@@ -1,15 +1,17 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if ??? doesn?t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>beyondcompare4</id>
-    <version>4.0.0.18291-beta</version>
     <title>Beyond Compare 4 - Beta</title>
+    <version>4.0.0.182911-beta</version>
     <authors>Scooter Software</authors>
-    <owners>Scooter Software</owners>
-    <projectUrl>http://www.scootersoftware.com/beta.php</projectUrl>
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Beyond Compare 4 is the ideal tool for comparing files and folders on your Windows or Linux system. Visualize changes in your code and carefully reconcile them.</description>
+    <owners>DanyO</owners>
     <summary>Beyond Compare 4 is the ideal tool for comparing files and folders on your Windows or Linux system. Visualize changes in your code and carefully reconcile them.</summary>
+    <description>Beyond Compare 4 is the ideal tool for comparing files and folders on your Windows or Linux system. Visualize changes in your code and carefully reconcile them.</description>
+    <projectUrl>http://www.scootersoftware.com/beta.php</projectUrl>
     <tags>compare beyondcompare beyond merge</tags>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://raw.github.com/DanyO/ChocolateyPackages/master/beyondcompare4/beyondcompare4.png</iconUrl>
   </metadata>
 </package>
