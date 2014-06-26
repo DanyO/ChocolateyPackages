@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>litecoin</id>
-    <title>litecoin</title>
+    <title>Litecoin Wallet 0.8.7.1</title>
     <version>0.8.7.1</version>
     <authors>Litecoin project development team and contributors.</authors>
     <owners>DanyO</owners>
