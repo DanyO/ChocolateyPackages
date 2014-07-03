@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if ??? doesn?t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>emclient</id>
+    <title>eM Client 6 Free Email Client</title>
+    <version>6.0.0</version>
+    <authors>eM Client Inc.</authors>
+    <owners>DanyO</owners>
+    <summary>eM Client is a full featured e-mail client with modern and easy to use interface. eM Client also offers calendar, tasks, contacts and even chat.</summary>
+    <description>eM Client is a full featured e-mail client with modern and easy to use interface. eM Client also offers calendar, tasks, contacts and even chat.</description>
+    <projectUrl>http://www.emclient.com/</projectUrl>
+    <tags>emclient mail email client gmail outlook icloud exchange</tags>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://raw.github.com/DanyO/ChocolateyPackages/master/emclient/emclient.png</iconUrl>
+  </metadata>
+</package>
