@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if ??? doesn?t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>carbon</id>
+    <title>Carbon DevOps</title>
+    <version>1.7.0.1</version>
+    <authors>Aaron Jensen and the Carbon team.</authors>
+    <owners>DanyO</owners>
+    <summary>Carbon is a DevOps PowerShell module for automating the configuration of Windows 2008, Windows 2008 R2, 7, 2012, and 2012 R2 computers.</summary>
+    <description>Carbon is a DevOps PowerShell module for automating the configuration of Windows 2008, Windows 2008 R2, 7, 2012, and 2012 R2 computers.</description>
+    <projectUrl>http://get-carbon.org/</projectUrl>
+    <tags>carbon admin powershell devops</tags>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+  </metadata>
+</package>
