@@ -1,15 +1,7 @@
 $packageName = 'soapui' # arbitrary name for the package, used in messages
 $fileType = 'exe'
-$url = 'http://downloads.sourceforge.net/project/soapui/soapui/5.0.0/SoapUI-x32-5.0.0.exe?r=&ts=1403616764&use_mirror=iweb'
-try
-{
-	#Install-ChocolateyPackage $packageName $fileType $silentArgs $url
-    Install-ChocolateyPackage $packageName $fileType '-q' $url
+$url = 'http://cdn01.downloads.smartbear.com/soapui/5.2.1/SoapUI-x32-5.2.1.exe'
+$url64 = 'http://cdn01.downloads.smartbear.com/soapui/5.2.1/SoapUI-x64-5.2.1.exe'
 
-    Write-ChocolateySuccess $packageName
-}
-catch
-{
-    Write-ChocolateyFailure $packageName "$($_.Exception.Message)"
-    throw 
-}
+#Install-ChocolateyPackage $packageName $fileType $silentArgs $url
+Install-ChocolateyPackage $packageName $fileType '-q' $url $url64
